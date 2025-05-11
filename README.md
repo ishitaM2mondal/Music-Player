@@ -8,7 +8,3 @@ Create cool UI to play music using the HTML5 audio API ( all musics are stored i
 - Add play and pause functionality
 - Switch songs
 - Progress bar
-
-## DEMO:
-
-See this app live here http://shubhamdutta.me/Music-Player
